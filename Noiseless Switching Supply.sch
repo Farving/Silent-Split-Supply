@@ -1015,4 +1015,10 @@ Text Label 6550 3400 0    50   ~ 0
 SW+
 Text Label 6600 4600 0    50   ~ 0
 SW-
+Text Notes 3400 3050 0    50   ~ 0
+Add EMI filter
+Text Notes 5300 3050 0    50   ~ 0
+Change to Single Buck Coupled Inductor
+Text Notes 10000 3250 0    50   ~ 0
+Add extra output (pre LDO)
 $EndSCHEMATC
